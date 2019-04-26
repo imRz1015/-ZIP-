@@ -1,4 +1,4 @@
-# -ZIP-
+# qrcode2Zip
 
 TANGIMING
 
